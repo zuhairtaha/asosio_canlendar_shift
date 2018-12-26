@@ -2,7 +2,7 @@
   "name": "asosio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://gitname.github.io/asosio_canlendar_shift",
+  "homepage": "http://zuhairtaha.github.io/asosio_canlendar_shift",
   "dependencies": {
     "flatpickr": "^4.5.2",
     "moment": "^2.22.2",

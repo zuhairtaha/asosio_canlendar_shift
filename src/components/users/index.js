@@ -11,7 +11,7 @@ const Index = () =>
           const {name, id} = user
           return (
             <li key={id}>
-              <a href="/">
+              <a href="#">
                 <img className="icon" src={icon} alt={name} />
                 {name}
               </a>
