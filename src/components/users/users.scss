@@ -1,0 +1,29 @@
+.vertical-menu {
+  flex: 1;
+  width: 200px;
+  margin: 1rem;
+  ul {
+    list-style: none;
+  }
+  a {
+    background-color: #eee;
+    color: black;
+    display: block;
+    padding: 12px;
+    margin-bottom: 1px;
+    text-decoration: none;
+    &:hover {
+      background-color: #ccc;
+    }
+    &:active, .active {
+      background-color: #4CAF50;
+      color: white;
+    }
+  }
+  .icon {
+    height: 20px;
+    vertical-align: middle;
+    margin-right: 1rem;
+  }
+}
+
