@@ -1,15 +1,15 @@
 {
   "main.css": "/asosio_canlendar_shift/static/css/main.8fd4f755.chunk.css",
-  "main.js": "/asosio_canlendar_shift/static/js/main.88a41c00.chunk.js",
-  "main.js.map": "/asosio_canlendar_shift/static/js/main.88a41c00.chunk.js.map",
+  "main.js": "/asosio_canlendar_shift/static/js/main.ebf628e4.chunk.js",
+  "main.js.map": "/asosio_canlendar_shift/static/js/main.ebf628e4.chunk.js.map",
   "static/css/1.2107c52d.chunk.css": "/asosio_canlendar_shift/static/css/1.2107c52d.chunk.css",
   "static/js/1.8c440b74.chunk.js": "/asosio_canlendar_shift/static/js/1.8c440b74.chunk.js",
   "static/js/1.8c440b74.chunk.js.map": "/asosio_canlendar_shift/static/js/1.8c440b74.chunk.js.map",
   "runtime~main.js": "/asosio_canlendar_shift/static/js/runtime~main.a706f033.js",
   "runtime~main.js.map": "/asosio_canlendar_shift/static/js/runtime~main.a706f033.js.map",
-  "static/css/main.8fd4f755.chunk.css.map": "/asosio_canlendar_shift/static/css/main.8fd4f755.chunk.css.map",
   "static/css/1.2107c52d.chunk.css.map": "/asosio_canlendar_shift/static/css/1.2107c52d.chunk.css.map",
+  "static/css/main.8fd4f755.chunk.css.map": "/asosio_canlendar_shift/static/css/main.8fd4f755.chunk.css.map",
   "index.html": "/asosio_canlendar_shift/index.html",
-  "precache-manifest.7b065538f0d018f95cc27374ee2603ed.js": "/asosio_canlendar_shift/precache-manifest.7b065538f0d018f95cc27374ee2603ed.js",
+  "precache-manifest.d6ec54f56b27336ecbae8a9b31b7bd0b.js": "/asosio_canlendar_shift/precache-manifest.d6ec54f56b27336ecbae8a9b31b7bd0b.js",
   "service-worker.js": "/asosio_canlendar_shift/service-worker.js"
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/asosio_canlendar_shift/precache-manifest.7b065538f0d018f95cc27374ee2603ed.js"
+  "/asosio_canlendar_shift/precache-manifest.d6ec54f56b27336ecbae8a9b31b7bd0b.js"
 );
 
 workbox.clientsClaim();
